@@ -1,0 +1,50 @@
+\section{Úvod -- dynamika reaktoru}
+
+Cílem je řešit ZV. Vlivem ZV se nám totiž reaktivita mění (teplota, tlak, roztažnost...). Vše je primárně ovlivněno teplotou, jelikož s rosroucí reaktivitou roste výkon a tím i teplota systému. Celkovou reaktivitu můžeme určit jako součet reaktivity dodané zvenčí (tyče, palivo, konfigurace) a reaktivity ve ZV.\\
+
+\subsection{Zpětné vazby}
+
+ZV mohou být obecně:
+
+\begin{itemize}
+  \item kladné -- odezva roste, nestabilita.
+  \item záporné -- odezva klesá, čímž se reaktor může stabilizovat,
+\end{itemize}
+
+viz graf na obrázku XX. Na jaké hodnotě se výkon při záporných ZV ustálí? Tehdy, pokud se ZV vyrovnají, což závisí na velikosti $\rho_0$ a velikost zpětnovazebních koeficientů. Dále je možné je rozlišit pomocí fyzikálních vlastností:
+
+\begin{itemize}
+  \item jaderné -- změnou teploty se mění mikroskopické účinné průřezy (Doppler),
+  \item hustotní -- změnou teploty se mění hustota jader a tím makroskopické účinné průřezy (moderátor) + geometrie.
+\end{itemize}
+
+Nebaví mě dál psát, ale na tohle má Huml fajn PDFko.
+
+\subsection{Zpětnovazební koeficienty}
+
+\textbf{Zpětnovazební koeficienty} je možné určit dle vztahu:
+
+\begin{equation}
+  \boxed{
+  a_i = \dfrac{\partial \rho}{\partial T_i}
+  \label{zpetnovazebni_koeficient_definice}
+  }
+\end{equation}
+
+A celkový vliv na reaktivitu jako:
+
+\begin{equation}
+  \boxed{
+  \rho_{tot} = \sum_i \dfrac{1}{V_i} \int_{V_i} a_i(\bar{r}) \Delta T_i(\bar{r}) \Omega_i(\bar{r}) d\bar{r},
+  \label{zpetnovazebni_koeficient_reaktivita}
+  }
+\end{equation}
+
+kde:
+
+\begin{itemize}
+  \item $\Delta T_i$ -- představuje teplotní odchylku od i-té složky (teplotní rozdíl od kritického a aktuálního stavu),
+  \item $\Omega_i$ představuje tzv. \textbf{normovanou váhovou funkci}, která opravuje fakt, že stejné teplotní změny mohou mít v jiných místech jiný vliv na reaktivitu. Skutečně jsou úměrné $\Phi^2$.
+\end{itemize}
+
+Ukázka třísložkového reaktoru je ve skriptech od Bédi, netřeba se učit. 

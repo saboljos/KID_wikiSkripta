@@ -1,0 +1,101 @@
+\documentclass[a4paper, 11pt]{article}
+
+\usepackage[version=3]{mhchem}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[total={16cm,25cm}, top=3cm, left=2.5cm, includefoot]{geometry}
+\usepackage{pgfplots}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{easytable}
+\renewcommand{\figurename}{Obrázek}
+\renewcommand{\refname}{Zdroje}
+\renewcommand{\tablename}{Tabulka}
+\renewcommand{\contentsname}{Obsah}
+
+\setlength\parindent{0pt}
+\setcounter{section}{-1}
+\renewcommand{\labelenumi}{\alph{enumi}.}
+\usepackage{xcolor}
+\definecolor{light-gray}{gray}{0.95}
+\newcommand{\code}[1]{\colorbox{light-gray}{\texttt{#1}}}
+\newcommand{\logoCVUT}{\includegraphics[width = 0.5\textwidth]{img/symbol_cvut_konturova_verze_cb.pdf}}
+\newcommand{\logoFJFI}{\includegraphics[width = 0.4\textwidth]{img/fjfi_logo.png}}
+
+\begin{document}
+%\include{veličiny}
+%\include{zkratky}
+
+% titulní strana
+\thispagestyle{empty}
+
+\begin{center}
+	{\LARGE
+		České vysoké učení technické v Praze \par
+		Fakulta jaderná a fyzikálně inženýrská
+	}
+    \vspace{10mm}
+
+    \begin{tabular}{c}
+		\textbf{Katedra jaderných reaktorů} \\[3pt]
+    \end{tabular}
+
+   \vspace{10mm} \logoCVUT \vspace{15mm}
+
+   {\huge \textbf{Kinetika jaderných reaktorů}\par}
+   \vspace{5mm}
+   {\huge \textbf{Poznámky k předmětu KID}\par}
+
+   \vspace{15mm}
+   {\Large \MakeUppercase{Poznámky z předmětu}}
+
+   \vfill
+   {\large
+    \begin{tabular}{ll}
+    Rok: & 2023
+    \end{tabular}
+   }
+\end{center}
+
+% Prohlášení
+\newpage
+\thispagestyle{empty}
+
+%~
+\vfill
+
+\vspace{1em}
+Tyto poznámky vznikly na základě přednášek pana Ing. Ondřeje Humla, Ph.D. a obsahují pouze část z kinetiky nulového reaktoru. Kapitola ohledně dynamiky obsahující vliv zpětných vazeb se v poznámkách nenachází.\\
+\\
+Dalšími zdroji při tvorbě dokumentu byly:
+
+\begin{itemize}
+    \item Dynamika jaderných reaktorů -- B. Heřmanský,
+    \item Nuclear Reactor Physics -- Weston M. Stacey.
+\end{itemize}
+
+Pokud naleznete nějakou chybu, nebo pokud se vám bude chtít dopsat kapitola s dynamikou, hoďte issue na GitHub \it{https://github.com/saboljos/KID\_wikiSkripta}.\\
+\\
+\rm Hodně zdaru!
+
+\vspace{2em}
+
+\clearpage{\pagestyle{empty}}
+
+\include{none}
+
+\newpage
+\parskip=0pt
+\begin{small}
+\tableofcontents
+\end{small}
+\parskip=7pt
+\newpage
+
+\include{chapter_0}
+\include{chapter_1}
+\include{chapter_2}
+\include{chapter_3}
+%\include{chapter_4}
+\end{document}

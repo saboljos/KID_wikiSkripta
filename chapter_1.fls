@@ -1,0 +1,10 @@
+PWD C:/Users/sabol/Desktop/FJFI/8. semestr/KID/poznámky
+INPUT c:/texlive/2022/texmf.cnf
+INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT chapter_1.tex
+OUTPUT chapter_1.log
+INPUT c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT chapter_1.pdf
+INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map

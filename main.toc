@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {0}Matematický aparát}{4}{}%
+\contentsline {subsection}{\numberline {0.1}Laplaceova transformace}{4}{}%
+\contentsline {section}{\numberline {1}Úvod -- kinetika reaktoru}{5}{}%
+\contentsline {section}{\numberline {2}Odvození rovnic jednobodové kinetiky}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Odvození bez vlivu zpožděných neutronů}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Odvození s vlivem zpožděných neutronů}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Přehled vzorečků}{13}{}%
+\contentsline {section}{\numberline {3}Řešení rovnic jednobodové kinetiky}{14}{}%
+\contentsline {subsection}{\numberline {3.1}Řešení bez vlivu zpožděných neutronů}{14}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Konstatní reaktivita}{14}{}%
+\contentsline {subsection}{\numberline {3.2}Řešení s vlivem zpožděných neutronů -- postup}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Analytické řešení s vlivem zpožděných neutronů}{19}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Impulsní charakeristika}{19}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Přechodová charakteristika}{20}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Frekvenční charakteristika}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Vlivy zjendnodušení}{38}{}%
+\contentsline {subsection}{\numberline {3.4}Numerické řešení s vlivem zpožděných neutronů}{40}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Metoda tečen}{40}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Eulerova metoda}{41}{}%
+\contentsline {subsection}{\numberline {3.5}Stabilita nulového reaktoru}{41}{}%
