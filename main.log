@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.29)  1 AUG 2023 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.30)  20 FEB 2024 09:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"c:/Users/sabol/Desktop/FJFI/8. semestr/KID/KID_wikiSkripta/main.tex"
 (c:/Users/sabol/Desktop/FJFI/8. semestr/KID/KID_wikiSkripta/main.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-11>
 (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
@@ -26,7 +26,7 @@ File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
 Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-06-30 L3 programming layer (loader) 
+Package: expl3 2023-08-11 L3 programming layer (loader) 
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
@@ -143,16 +143,26 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \mhchem@option@minustextsidebearingleft=\dimen154
 \mhchem@option@minustextsidebearingright=\dimen155
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
-Package: siunitx 2023-07-26 v3.2.9 A comprehensive (SI) units package
+Package: siunitx 2023-08-03 v3.3.2 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count279
+\l__siunitx_number_exponent_fixed_int=\count280
+\l__siunitx_number_min_decimal_int=\count281
+\l__siunitx_number_min_integer_int=\count282
+\l__siunitx_number_round_precision_int=\count283
+\l__siunitx_number_lower_threshold_int=\count284
+\l__siunitx_number_upper_threshold_int=\count285
+\l__siunitx_number_group_first_int=\count286
+\l__siunitx_number_group_size_int=\count287
+\l__siunitx_number_group_minimum_int=\count288
 \l__siunitx_angle_tmp_dim=\dimen156
 \l__siunitx_angle_marker_box=\box54
 \l__siunitx_angle_unit_box=\box55
-\l__siunitx_compound_count_int=\count279
+\l__siunitx_compound_count_int=\count289
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count280
+\etb@tempcnta=\count290
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -166,15 +176,6 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-\l__siunitx_number_exponent_fixed_int=\count281
-\l__siunitx_number_min_decimal_int=\count282
-\l__siunitx_number_min_integer_int=\count283
-\l__siunitx_number_round_precision_int=\count284
-\l__siunitx_number_lower_threshold_int=\count285
-\l__siunitx_number_upper_threshold_int=\count286
-\l__siunitx_number_group_first_int=\count287
-\l__siunitx_number_group_size_int=\count288
-\l__siunitx_number_group_minimum_int=\count289
 \l__siunitx_table_tmp_box=\box56
 \l__siunitx_table_tmp_dim=\dimen157
 \l__siunitx_table_column_width_dim=\dimen158
@@ -185,9 +186,9 @@ Package pdftexcmds Info: \pdfdraftmode found.
 \l__siunitx_table_after_box=\box61
 \l__siunitx_table_before_dim=\dimen159
 \l__siunitx_table_carry_dim=\dimen160
-\l__siunitx_unit_tmp_int=\count290
-\l__siunitx_unit_position_int=\count291
-\l__siunitx_unit_total_int=\count292
+\l__siunitx_unit_tmp_int=\count291
+\l__siunitx_unit_position_int=\count292
+\l__siunitx_unit_total_int=\count293
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen161
@@ -210,9 +211,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
 \Gm@bindingoffset=\dimen165
 \Gm@wd@mp=\dimen166
 \Gm@odd@mp=\dimen167
@@ -254,14 +255,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen184
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count296
-\c@pgf@countb=\count297
-\c@pgf@countc=\count298
-\c@pgf@countd=\count299
+\c@pgf@counta=\count297
+\c@pgf@countb=\count298
+\c@pgf@countc=\count299
+\c@pgf@countd=\count300
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count300
+\pgf@sys@id@count=\count301
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -272,8 +273,8 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count301
-\pgfsyssoftpath@bigbuffer@items=\count302
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
@@ -296,13 +297,13 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen185
-\pgfmath@count=\count303
+\pgfmath@count=\count304
 \pgfmath@box=\box65
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
 \pgfmath@stack@operation=\toks34
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count304
+\c@pgfmathroundto@lastzeros=\count305
 )) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen186
@@ -332,7 +333,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box66
 \pgf@hbox=\box67
 \pgf@layerbox@main=\box68
-\pgf@picture@serial@count=\count305
+\pgf@picture@serial@count=\count306
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen260
@@ -353,8 +354,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen265
-\pgf@sys@shading@range@num=\count306
-\pgf@shadingcount=\count307
+\pgf@sys@shading@range@num=\count307
+\pgf@shadingcount=\count308
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -389,7 +390,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count308
+\pgf@plot@mark@count=\count309
 \pgfplotmarksize=\dimen270
 )
 \tikz@lastx=\dimen271
@@ -404,17 +405,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box72
 \tikz@tempbox=\box73
 \tikz@tempbox@bg=\box74
-\tikztreelevel=\count309
-\tikznumberofchildren=\count310
-\tikznumberofcurrentchild=\count311
-\tikz@fig@count=\count312
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count313
-\pgfmatrixcurrentcolumn=\count314
-\pgf@matrix@numberofcolumns=\count315
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
 )
-\tikz@expandcount=\count316
+\tikz@expandcount=\count317
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
@@ -422,33 +423,33 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \t@pgfplots@tokb=\toks38
 \t@pgfplots@tokc=\toks39
 \pgfplots@tmpa=\dimen279
-\c@pgfplots@coordindex=\count317
-\c@pgfplots@scanlineindex=\count318
+\c@pgfplots@coordindex=\count318
+\c@pgfplots@scanlineindex=\count319
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
 \t@pgf@toka=\toks40
 \t@pgf@tokb=\toks41
 \t@pgf@tokc=\toks42
 (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count319
+\c@pgfplotsarray@tmp=\count320
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count320
+\c@pgfplotstable@counta=\count321
 \t@pgfplotstable@a=\toks43
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count321
+\c@pgfplotslibrarysurf@no=\count322
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen280
 \pgfdecoratedremainingdistance=\dimen281
 \pgfdecoratedinputsegmentcompleteddistance=\dimen282
 \pgfdecoratedinputsegmentremainingdistance=\dimen283
 \pgf@decorate@distancetomove=\dimen284
-\pgf@decorate@repeatstate=\count322
+\pgf@decorate@repeatstate=\count323
 \pgfdecorationsegmentamplitude=\dimen285
 \pgfdecorationsegmentlength=\dimen286
 )
 \tikz@lib@dec@box=\box75
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count323
+\pgfplots@numplots=\count324
 \pgfplots@xmin@reg=\dimen287
 \pgfplots@xmax@reg=\dimen288
 \pgfplots@ymin@reg=\dimen289
@@ -461,7 +462,7 @@ File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count324
+\c@float@type=\count325
 \float@exts=\toks44
 \float@box=\box76
 \@float@everytoks=\toks45
@@ -478,22 +479,22 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen300
 \cmidrulekern=\dimen301
 \defaultaddspace=\dimen302
-\@cmidla=\count325
-\@cmidlb=\count326
+\@cmidla=\count326
+\@cmidlb=\count327
 \@aboverulesep=\dimen303
 \@belowrulesep=\dimen304
-\@thisruleclass=\count327
-\@lastruleclass=\count328
+\@thisruleclass=\count328
+\@lastruleclass=\count329
 \@thisrulewidth=\dimen305
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/easy\easytable.sty
 Document Style `easytable' v1.0 <2001/06/13>.
 (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/easy\easy.sty
 Document Style `easy' v1.1 <2001/05/31>.
 Package: easy 2001/05/31 v1.1
-\@easy@level=\count329
-\@easy@ncol=\count330
-\@easy@nrow=\count331
-\@easy@cnt=\count332
+\@easy@level=\count330
+\@easy@ncol=\count331
+\@easy@nrow=\count332
+\@easy@cnt=\count333
 \@easy@boxviii=\box78
 \@easy@minxviii=\dimen306
 \@easy@minyviii=\dimen307
@@ -602,7 +603,7 @@ Package: easytable 2001/05/31v1.1
 \@tab@size@dash=\dimen401
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 26.
- (main.aux (none.aux) (chapter_0.aux) (chapter_1.aux) (chapter_2.aux) (chapter_3.aux))
+ (main.aux (none.aux) (chapter_0.aux) (chapter_1.aux) (chapter_2.aux) (chapter_3.aux) (chapter_4.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -624,16 +625,16 @@ Package chemgreek Info: Activating mapping `default' on line 26.
 
  (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count333
+\scratchcounter=\count334
 \scratchdimen=\dimen402
 \scratchbox=\box86
-\nofMPsegments=\count334
-\nofMParguments=\count335
+\nofMPsegments=\count335
+\nofMParguments=\count336
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count336
+\MPscratchCnt=\count337
 \MPscratchDim=\dimen403
-\MPnumerator=\count337
-\makeMPintoPDFobject=\count338
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
 \everyMPtoPDFconversion=\toks47
 ) (C:\Users\sabol\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -691,12 +692,17 @@ Package pdftex.def Info: img/symbol_cvut_konturova_verze_cb.pdf  used on input l
 [1
 
 {C:/Users/sabol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/symbol_cvut_konturova_verze_cb.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
+Overfull \hbox (22.12543pt too wide) in paragraph at lines 79--80
+[]\OT1/cmr/m/n/10.95 Pokud naleznete n^^Tejakou chybu, ho[]dte is-sue na GitHub \OT1/cmr/m/it/10.95 https://github.com/saboljos/KID[]wikiSkripta. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
@@ -1081,24 +1087,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 896--897
 
  []
 
-) [41] (main.aux (none.aux) (chapter_0.aux) (chapter_1.aux) (chapter_2.aux) (chapter_3.aux))
+) [41]
+\openout2 = `chapter_4.aux'.
+
+ (chapter_4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<img/ZV.JPG, id=174, 484.209pt x 294.50024pt>
+File: img/ZV.JPG Graphic file (type jpg)
+<use img/ZV.JPG>
+Package pdftex.def Info: img/ZV.JPG  used on input line 22.
+(pdftex.def)             Requested size: 318.66946pt x 193.82251pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[42
+
+
+
+ <./img/ZV.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+<img/voda-uran.JPG, id=178, 426.99525pt x 259.56975pt>
+File: img/voda-uran.JPG Graphic file (type jpg)
+<use img/voda-uran.JPG>
+Package pdftex.def Info: img/voda-uran.JPG  used on input line 57.
+(pdftex.def)             Requested size: 318.66946pt x 193.72626pt.
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[44 <./img/voda-uran.JPG>]
+Overfull \hbox (3.7124pt too wide) in paragraph at lines 89--90
+[]$\OT1/cmr/m/n/10.95 ^^A\OML/cmm/m/it/10.95 T[]$ \OT1/cmr/m/n/10.95 -- p^^Tredstavuje teplotn^^S^^P od-chylku od i-t^^Se slo^^Tzky (teplotn^^S^^P rozd^^S^^Pl od kr-i-t-ick^^Seho a aktu^^Saln^^S^^Pho
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+) [46] (main.aux (none.aux) (chapter_0.aux) (chapter_1.aux) (chapter_2.aux) (chapter_3.aux) (chapter_4.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 28921 strings out of 475550
- 765434 string characters out of 5762533
- 1933238 words of memory out of 5000000
- 49687 multiletter control sequences out of 15000+600000
+ 29081 strings out of 475502
+ 771027 string characters out of 5761813
+ 1933248 words of memory out of 5000000
+ 49888 multiletter control sequences out of 15000+600000
  568286 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,103p,779b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,103p,870b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sabol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\sabol\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/sabol/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (41 pages, 1103254 bytes).
+Output written on main.pdf (46 pages, 1192361 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
+ 280 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
